@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(161, 236, 161);
+}
+
+#main {
+    text-align: center;
+    font-family: source-code-pro, monospace;
+    font-style: normal;
+    font-weight: 200;
+}
